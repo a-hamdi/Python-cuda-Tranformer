@@ -33,20 +33,20 @@ This guide will walk you through the steps required to install and run the proje
 
 ## How to Use:
 
-. **Clone the repository**
+**Clone the repository**
 
    Clone the repository using the following command:
 
    ```
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/a-hamdi/Python-cuda-Tranformer.git
    ```
 
-. **Run the CUDA Kernels**
+**Run the CUDA Kernels**
 
    you can run them using the following command:
 
    ```
-   ./matMuldot_product_kernel
+   ./dot_product_kernel.py
    ```
 
 
