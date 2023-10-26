@@ -41,7 +41,7 @@ This guide will walk you through the steps required to install and run the proje
    git clone https://github.com/username/repository.git
    ```
 
-6. **Run the CUDA Kernels**
+. **Run the CUDA Kernels**
 
    you can run them using the following command:
 
